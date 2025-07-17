@@ -1,0 +1,2 @@
+# Real-Time-Sign-Language-Gesture-Recognition-Using-Deep-Learning-and-GUI-Based-Deployment
+This project built a real-time hand gesture recognition system using CNNs to classify “thanks,” “ok,” “silent,” and “rock” gestures via webcam. A custom, augmented dataset helped achieve 95% accuracy. Integrated with Tkinter, it gives live predictions. Future work includes improving dataset diversity and model tuning.
